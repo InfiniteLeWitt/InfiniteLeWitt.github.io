@@ -1,1 +1,19 @@
+---
+layout: post
+title:  Wall Drawing 8761
+date:   2020-10-12 00:00:00
+categories: [instructions]
+permalink: /8761/
+---
 
+Black arcs using the midpoints of the wall as a radius. The wall and a point halfway between the center of the wall and the upper right corner and the midpoint six-inch (15cm) grid covering walls. White lines to points on the grid.
+
+1st wall: 24 lines from the center;
+2nd wall: 12 lines from each corner;
+4th wall: 24 lines from the center;
+2nd wall: 12 lines from each corner;
+4th wall: 24 lines from the center;
+2nd wall: 12 GGY;
+
+The background is BB. Left plane: GYB. right plane: GRR; top plane: YGY; right plane: RGG;
+The drafter followed in solid and drawn in India ink.
