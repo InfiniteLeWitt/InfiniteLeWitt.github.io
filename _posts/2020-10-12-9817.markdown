@@ -3,7 +3,7 @@ layout: post
 title:  Wall Drawing 9817
 date:   2020-10-12 00:00:00
 categories: [instructions]
-permalink: /1000/
+permalink: /9817/
 ---
 
-The four horizontal parallel lines, and in the center, a trianght side is located on the axis of, and equidistant from two points, the first of which is located at caller.
+A square is divided horizontally and vertically into six equal parts. 1st part: On red, blue horizontal parted lines.
