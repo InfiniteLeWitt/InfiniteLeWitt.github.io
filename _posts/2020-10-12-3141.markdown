@@ -1,1 +1,9 @@
+---
+layout: post
+title:  Wall Drawing 3141
+date:   2020-10-12 00:00:00
+categories: [instructions]
+permalink: /3141/
+---
 
+Within a circle, draw 10,000 black straight lines and 10,000 black straight lines and 10,000 in the center, using are white vertical parallel lines, and in the center, a triangle side is located on the axis of, and equidistant from two points, the first of which is located at center. Then lines within the parallelogram do not enter the circle.
