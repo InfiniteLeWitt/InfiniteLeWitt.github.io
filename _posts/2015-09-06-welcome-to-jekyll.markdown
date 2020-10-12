@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Wall Drawing 1000
-date:   2020-19-16 00:00:00
+date:   2020-10-16 00:00:00
 categories: [instructions]
 permalink: /1000/
 ---
