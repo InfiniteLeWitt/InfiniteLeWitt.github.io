@@ -9,8 +9,8 @@ url: "https://InfiniteLeWitt.github.io" # the base hostname & protocol for your 
 author:
   fullname: Sebastian Gallese
   # googleplus: https://www.google.com/+MotaquillahMaddane
-  # github: sgallese
-  # twitter: sgallese
+  github: sgallese
+  twitter: sgallese
   # disqus: your_disqus_forum_shortname
 
 # google_analytics: 'UA-XXXXXXXX-X'
