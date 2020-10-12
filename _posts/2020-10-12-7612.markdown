@@ -1,1 +1,9 @@
+---
+layout: post
+title:  Wall Drawing 7612
+date:   2020-10-12 00:00:00
+categories: [instructions]
+permalink: /7612/
+---
 
+On each of four walls, a tilted form with color ink washes from the center, 12 lines from the midpoint of each of the sides, 12 lines from each corner.
